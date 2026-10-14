@@ -1,1 +1,5 @@
-# cs101-version-control-825
+# My CS Profile
+
+## About Me
+- Name: Jirapat Imsub
+- Major: Computer Science
